@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+  "base_artist": "Reble, Shashwat Sachdev, & Jasmine Sandlas",
+  "createdAt": "2026-03-22T16:18:50.792926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/01_Main_Aur_Tu_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev.lrc"
+    }
+  ]
+}
